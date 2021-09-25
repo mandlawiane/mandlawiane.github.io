@@ -7,8 +7,8 @@
       
       "version": 1,
       "newAppLink": "",
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
-      "videos": "https://drive.google.com/uc?id=12mnN1z7sUEjYCKPKur_1ZFIyV9xZz8BW",
+      "videos": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "video": "https://drive.google.com/uc?id=12mnN1z7sUEjYCKPKur_1ZFIyV9xZz8BW",
       "privacy": "https://mandlawiane.github.io/privacy.html",
       
       "spancount": 1,
@@ -61,14 +61,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/7278725887",
         "admb_openad": "ca-app-pub-7144089957930196/9466384457",
         "admb_inters": "ca-app-pub-7144089957930196/5965644210",
         "admb_native": "ca-app-pub-7144089957930196/9833215962"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
