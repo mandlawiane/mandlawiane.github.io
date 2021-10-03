@@ -66,7 +66,7 @@
       
      "anticipatefantrouble":false,
 
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-3966230519808670/7878814504",
         "admb_inters": "ca-app-pub-3966230519808670/9374878943",
@@ -75,7 +75,7 @@
         "admb_openad": "ca-app-pub-3966230519808670/6748715606"
       },
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
